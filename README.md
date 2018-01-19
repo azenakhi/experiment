@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=RIRB2AFrPV8
 ### AutoReload Node Server for development
 - npm install -g nodemon
 - nodemon app.js
+### Demonstration Node Server 
+- npm install -g httpster
+- httpster -p 3000 -d jscode/public
 
 ## Microservice Architecture
 ### Clair
