@@ -3,6 +3,12 @@
 Brunch : Tool for Reload & refresh instantané
 ### Node JS Presentation
 https://www.youtube.com/watch?v=RIRB2AFrPV8
+### Maanage Node Server production
+npm install -g forever 
+forever start app.js
+### AutoReload Node Server for development
+npm install -g nodemon
+nodemon app.js
 
 ## Microservice Architecture
 ### Clair
