@@ -1,5 +1,5 @@
 ## Web Development
-### Node style guid
+### Node style guide
 https://github.com/felixge/node-style-guide
 ### Node debug 
 https://stackoverflow.com/questions/1911015/how-do-i-debug-node-js-applications
@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=RIRB2AFrPV8
 ### Demonstration Node Server 
 - npm install -g httpster
 - httpster -p 3000 -d jscode/public
+### NoSQL
+- npm install mongoose --save
 
 ## Microservice Architecture
 ### Clair
