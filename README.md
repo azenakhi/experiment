@@ -1,6 +1,8 @@
 ## Web Development
 ### Node style guid
 https://github.com/felixge/node-style-guide
+### Node debug 
+https://stackoverflow.com/questions/1911015/how-do-i-debug-node-js-applications
 ### Build
 Brunch : Tool for Reload & refresh instantané
 ### Node JS Presentation
